@@ -58,12 +58,14 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" alt="Seedling" width="25" height="25" /> About Me
 
+**Hey!! Great to see you here!** <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="25px">
+
 ```text
-- 👋 Hi, I’m Shivansh Sahu!
-- 🌱 I’m currently learning: Cloud computing architectures (AWS/Azure) and advanced C++ data structures.
-- 🤝 I'm open to collaborate on: Open-source AI agents, prompt engineering tools, or modern web prototypes.
-- 💬 Ask me about: Prompt engineering, LLM integrations, vibe coding workflows, or algorithmic problem-solving.
-- 📫 How to reach me: shivanshmax@gmail.com
+* 🧑‍💻 Hi, I’m Shivansh Sahu!
+* 💻 Learning: Cloud computing architectures (AWS/Azure) and advanced C++ data structures.
+* 💡 Open to collaborate on: Open-source AI agents, prompt engineering tools, or modern web prototypes.
+* 🗣️ Ask me about: Prompt engineering, LLM integrations, vibe coding workflows, or algorithmic problem-solving.
+* 📫 How to reach me: shivanshmax@gmail.com
 ```
 
 <br>
@@ -71,6 +73,10 @@
 <br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="25" height="25" /> Let's Connect
+
+*Find out more about me & feel free to connect with me here:*
+
+<br>
 
 <div align="center">
 
