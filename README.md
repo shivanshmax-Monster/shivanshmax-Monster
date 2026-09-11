@@ -1,10 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Shivansh%20Sahu&fontSize=50&fontColor=fff&animation=fadeIn)
 
 <div align="center">
-  <img src="neon-banner.png" alt="Neon Banner" width="100%">
-</div>
-
-<div align="center">
 
 > [!TIP]
 > *"Code is like humor. When you have to explain it, it’s bad."*
