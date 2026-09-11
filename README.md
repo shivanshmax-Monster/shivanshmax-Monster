@@ -18,6 +18,10 @@ https://user-images.githubusercontent.com/31657420/190714127-119b3a9d-9946-4247-
 
 <br>
 
+<img src="https://raw.githubusercontent.com/j0shbl0ck/j0shbl0ck/main/Add-ons/FSN.gif" alt="anime eyes" width="100%">
+
+<br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0089D6&width=650&center=true&vCenter=true&size=20&lines=B.Tech+AI+Student;Full-Stack+AI+Developer;Building+Intelligent+AI+Applications" alt="Typing SVG" />
 
 <br>
