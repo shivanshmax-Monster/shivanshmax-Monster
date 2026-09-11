@@ -203,3 +203,19 @@ class Skills extends AI_Developer {
 [![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
 
               
+
+
+<br>
+<br>
+<div align="center">
+  <img align="center" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width="500">
+</div>
+<br>
+<h2 align="center">Thank you for reading 👋 </h2>
+<br>
+<h1 align="center">Support Me 🎧 🎤</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/cc/85/19/cc8519f9b3f798c87451e5c78b9e1629.gif">
+  <br>
+  <img src="https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/main/img/vocaloid/vocaloidchibi.png">
+</p>
