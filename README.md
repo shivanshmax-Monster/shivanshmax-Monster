@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<p align="center"> 
+ ✨<br><i>"Code is like humor. When you have to explain it, it’s bad."</i><br>🖥️
+</p>
+
 <img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk" width="300">
 <br>
 
@@ -38,8 +42,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivanshmax-Monster&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&line_height=28" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshmax-Monster&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+|_**GitHub Stats**_|_**GitHub Streak**_|
+|-----------|-------------|
+|<img src="https://github-readme-stats.vercel.app/api?username=shivanshmax-Monster&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&line_height=28" alt="GitHub Stats" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshmax-Monster&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" />|
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshmax-Monster&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
@@ -49,11 +56,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" alt="Seedling" width="25" height="25" /> Currently
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" alt="Seedling" width="25" height="25" /> About Me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> **Learning:** Cloud computing architectures (AWS/Azure) and advanced C++ data structures.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20" /> **Collaborate:** Open-source AI agents, prompt engineering tools, or modern web prototypes.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="20" height="20" /> **Ask me about:** Prompt engineering, LLM integrations, vibe coding workflows, or algorithmic problem-solving.
+```text
+- 👋 Hi, I’m Shivansh Sahu!
+- 🌱 I’m currently learning: Cloud computing architectures (AWS/Azure) and advanced C++ data structures.
+- 🤝 I'm open to collaborate on: Open-source AI agents, prompt engineering tools, or modern web prototypes.
+- 💬 Ask me about: Prompt engineering, LLM integrations, vibe coding workflows, or algorithmic problem-solving.
+- 📫 How to reach me: shivanshmax@gmail.com
+```
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -72,6 +83,10 @@
 <div align="center">
 
 <i>⚡ I've built tools for everything from prep tracking to automated MCQ generation!</i>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shivanshmax-Monster&label=Profile%20Views&color=0089D6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
