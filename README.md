@@ -7,7 +7,7 @@
 > 
 > — **Cory House**
 
-<img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk" width="300"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer coding" width="300">
+<img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk" width="300"> <img src="neon-cat.png" alt="neon cat" width="300"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="developer coding" width="300">
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0089D6&width=650&center=true&vCenter=true&size=20&lines=B.Tech+AI+Student;Full-Stack+AI+Developer;Building+Intelligent+AI+Applications" alt="Typing SVG" />
