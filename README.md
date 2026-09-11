@@ -61,12 +61,21 @@
 
 **Hey!! Great to see you here!** <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="25px">
 
-```text
-* 🧑‍💻 Hi, I’m Shivansh Sahu!
-* 💻 Learning: Cloud computing architectures (AWS/Azure) and advanced C++ data structures.
-* 💡 Open to collaborate on: Open-source AI agents, prompt engineering tools, or modern web prototypes.
-* 🗣️ Ask me about: Prompt engineering, LLM integrations, vibe coding workflows, or algorithmic problem-solving.
-* 📫 How to reach me: shivanshmax@gmail.com
+```javascript
+import { AI_Developer } from '@shivanshmax';
+
+class Bio extends AI_Developer {
+  name     = 'Shivansh Sahu';
+  title    = 'B.Tech AI Student & Full-Stack AI Developer';
+  location = 'Gwalior, India';
+  email    = 'shivanshmax@gmail.com';
+}
+
+class Skills extends AI_Developer {
+  learning = ['Cloud Architecture (AWS/Azure)', 'Advanced C++'];
+  hobbies  = ['Prompt Engineering', 'LLM Integrations', 'Vibe Coding'];
+  collab   = ['Open-source AI agents', 'Web prototypes'];
+}
 ```
 
 <br>
