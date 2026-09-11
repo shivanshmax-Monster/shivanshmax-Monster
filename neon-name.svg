@@ -1,0 +1,43 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Pacifico&amp;display=swap');
+      
+      .neon-wrapper {
+        animation: flicker 3s infinite alternate;
+      }
+
+      .text-base {
+        font-family: 'Pacifico', cursive;
+        font-size: 80px;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+
+      .glow {
+        fill: transparent;
+        stroke: #0ff;
+        stroke-width: 6;
+        filter: drop-shadow(0 0 10px #0ff) drop-shadow(0 0 20px #0ff) drop-shadow(0 0 30px #00aaff);
+      }
+      
+      .core {
+        fill: #ffffff;
+      }
+
+      @keyframes flicker {
+        0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+          opacity: 1;
+        }
+        20%, 24%, 55% {
+          opacity: 0.1;
+        }
+      }
+    </style>
+  </defs>
+
+  <g class="neon-wrapper">
+    <text x="400" y="110" class="text-base glow">Shivansh Sahu</text>
+    <text x="400" y="110" class="text-base core">Shivansh Sahu</text>
+  </g>
+</svg>
