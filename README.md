@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<p align="center"> 
- ✨<br><i>"Code is like humor. When you have to explain it, it’s bad."</i><br>🖥️
-</p>
+> [!TIP]
+> *"Code is like humor. When you have to explain it, it’s bad."*
+> 
+> — **Cory House**
 
 <img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk" width="300">
 <br>
@@ -47,8 +48,8 @@
 |<img src="https://github-readme-stats.vercel.app/api?username=shivanshmax-Monster&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&line_height=28" alt="GitHub Stats" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshmax-Monster&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" />|
 
 <br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshmax-Monster&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivanshmax-Monster&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="WakaTime Stats" />
 
 </div>
 
